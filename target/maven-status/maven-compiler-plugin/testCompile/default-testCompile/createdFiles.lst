@@ -1,0 +1,8 @@
+com\salesforce\test\LoginTest.class
+com\salesforce\page\HomePage.class
+com\salesforce\page\ForgotPasswordPage.class
+com\salesforce\page\LoginPage.class
+com\salesforce\page\AccountsPage.class
+com\salesforce\test\HomeTest.class
+com\salesforce\page\CheckEmailPage.class
+com\salesforce\page\MyProfilePage.class

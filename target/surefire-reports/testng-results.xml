@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-15T17:01:56Z" name="Surefire suite" finished-at="2024-12-15T17:02:26Z" duration-ms="29871">
+    <groups>
+    </groups>
+    <test started-at="2024-12-15T17:01:56Z" name="Surefire test" finished-at="2024-12-15T17:02:26Z" duration-ms="29871">
+      <class name="com.salesforce.test.HomeTest">
+        <test-method is-config="true" signature="pageLoad()[pri:0, instance:com.salesforce.test.HomeTest@11e21d0e]" started-at="2024-12-15T12:01:56Z" name="pageLoad" finished-at="2024-12-15T12:01:59Z" duration-ms="3140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoad -->
+        <test-method signature="validateMyProfile()[pri:0, instance:com.salesforce.test.HomeTest@11e21d0e]" started-at="2024-12-15T12:01:59Z" name="validateMyProfile" finished-at="2024-12-15T12:02:04Z" duration-ms="5032" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateMyProfile -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.salesforce.test.HomeTest@11e21d0e]" started-at="2024-12-15T12:02:04Z" name="closeBrowser" finished-at="2024-12-15T12:02:05Z" duration-ms="112" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.salesforce.test.HomeTest -->
+      <class name="com.salesforce.test.LoginTest">
+        <test-method is-config="true" signature="pageLoad()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:05Z" name="pageLoad" finished-at="2024-12-15T12:02:06Z" duration-ms="1268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoad -->
+        <test-method signature="checkForgotPasswordFunctionality()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:06Z" name="checkForgotPasswordFunctionality" finished-at="2024-12-15T12:02:07Z" duration-ms="1392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkForgotPasswordFunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:07Z" name="closeBrowser" finished-at="2024-12-15T12:02:07Z" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="pageLoad()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:07Z" name="pageLoad" finished-at="2024-12-15T12:02:08Z" duration-ms="1170" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoad -->
+        <test-method signature="loginFailed()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:08Z" name="loginFailed" finished-at="2024-12-15T12:02:10Z" duration-ms="1902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFailed -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:10Z" name="closeBrowser" finished-at="2024-12-15T12:02:10Z" duration-ms="111" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="pageLoad()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:10Z" name="pageLoad" finished-at="2024-12-15T12:02:12Z" duration-ms="1191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoad -->
+        <test-method signature="passwordEmpty()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:12Z" name="passwordEmpty" finished-at="2024-12-15T12:02:13Z" duration-ms="1203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- passwordEmpty -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:13Z" name="closeBrowser" finished-at="2024-12-15T12:02:13Z" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="pageLoad()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:13Z" name="pageLoad" finished-at="2024-12-15T12:02:14Z" duration-ms="1163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoad -->
+        <test-method signature="rememberMeFunctionality()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:14Z" name="rememberMeFunctionality" finished-at="2024-12-15T12:02:20Z" duration-ms="5877" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- rememberMeFunctionality -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:20Z" name="closeBrowser" finished-at="2024-12-15T12:02:20Z" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="pageLoad()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:20Z" name="pageLoad" finished-at="2024-12-15T12:02:21Z" duration-ms="1208" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageLoad -->
+        <test-method signature="successLogin()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:21Z" name="successLogin" finished-at="2024-12-15T12:02:26Z" duration-ms="4695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successLogin -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.salesforce.test.LoginTest@1dd02175]" started-at="2024-12-15T12:02:26Z" name="closeBrowser" finished-at="2024-12-15T12:02:26Z" duration-ms="55" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.salesforce.test.LoginTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
